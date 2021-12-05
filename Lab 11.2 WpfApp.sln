@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 11.2 WpfApp", "Lab 11.2 WpfApp\Lab 11.2 WpfApp.csproj", "{2654DC87-0B42-4617-970D-BAE6058AF486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2654DC87-0B42-4617-970D-BAE6058AF486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2654DC87-0B42-4617-970D-BAE6058AF486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2654DC87-0B42-4617-970D-BAE6058AF486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2654DC87-0B42-4617-970D-BAE6058AF486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD789ABA-0424-4182-AB8A-786A1C83A8AD}
+	EndGlobalSection
+EndGlobal
